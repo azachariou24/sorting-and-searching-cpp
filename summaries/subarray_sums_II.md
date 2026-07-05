@@ -102,6 +102,6 @@ In the worst case, all prefix sums are distinct and must be stored.
 
 ## Reference Implementation
 
-See [`subarray_sums_ii.cpp`](../src/subarray_sums_II.cpp).
+See [`subarray_sums_II.cpp`](../src/subarray_sums_II.cpp).
 
 ---
