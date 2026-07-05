@@ -97,6 +97,6 @@ The linked list stores all `n` children.
 
 ## Reference Implementation
 
-See [`josephus_problem_i.cpp`](../src/josephus_problem_I.cpp).
+See [`josephus_problem_I.cpp`](../src/josephus_problem_I.cpp).
 
 ---
