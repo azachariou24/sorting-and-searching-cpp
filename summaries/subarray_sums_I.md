@@ -98,6 +98,6 @@ The array is stored in a vector. The algorithm itself uses only constant extra m
 
 ## Reference Implementation
 
-See [`subarray_sums_i.cpp`](../src/subarray_sums_I.cpp).
+See [`subarray_sums_I.cpp`](../src/subarray_sums_I.cpp).
 
 ---
