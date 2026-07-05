@@ -97,6 +97,6 @@ The Fenwick Tree stores one value for each child.
 
 ## Reference Implementation
 
-See [`josephus_problem_ii.cpp`](../src/josephus_problem_II.cpp).
+See [`josephus_problem_II.cpp`](../src/josephus_problem_II.cpp).
 
 ---
