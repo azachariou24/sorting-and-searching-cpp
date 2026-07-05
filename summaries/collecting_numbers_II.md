@@ -103,6 +103,6 @@ The algorithm stores the permutation and the position of each value.
 
 ## Reference Implementation
 
-See [`collecting_numbers_ii.cpp`](../src/collecting_numbers_ii.cpp).
+See [`collecting_numbers_ii.cpp`](../src/collecting_numbers_II.cpp).
 
 ---
