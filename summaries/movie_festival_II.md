@@ -110,6 +110,6 @@ The algorithm stores all movies and the current availability time of each club m
 
 ## Reference Implementation
 
-See [`movie_festival_ii.cpp`](../src/movie_festival_II.cpp).
+See [`movie_festival_II.cpp`](../src/movie_festival_II.cpp).
 
 ---
